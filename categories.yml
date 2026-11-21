@@ -1,0 +1,12 @@
+- id: shift-scheduling
+  name: "Shift Scheduling"
+- id: time-and-attendance
+  name: "Time & Attendance"
+- id: workforce-management
+  name: "Workforce Management"
+- id: open-source
+  name: "Open Source"
+- id: restaurant-and-retail-scheduling
+  name: "Restaurant & Retail Scheduling"
+- id: healthcare-scheduling
+  name: "Healthcare Scheduling"

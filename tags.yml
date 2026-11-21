@@ -1,0 +1,76 @@
+- id: cloud
+  name: "Cloud"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: mobile-app
+  name: "Mobile App"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: time-clock
+  name: "Time Clock"
+- id: payroll-integration
+  name: "Payroll Integration"
+- id: pos-integration
+  name: "POS Integration"
+- id: labor-compliance
+  name: "Labor Compliance"
+- id: deskless-teams
+  name: "Deskless Teams"
+- id: task-management
+  name: "Task Management"
+- id: labor-forecasting
+  name: "Labor Forecasting"
+- id: shift-bidding
+  name: "Shift Bidding"
+- id: compliance
+  name: "Compliance"
+- id: gps-tracking
+  name: "GPS Tracking"
+- id: quickbooks-integration
+  name: "QuickBooks Integration"
+- id: demand-forecasting
+  name: "Demand Forecasting"
+- id: labor-analytics
+  name: "Labor Analytics"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: payroll
+  name: "Payroll"
+- id: on-premises
+  name: "On-Premises"
+- id: erp
+  name: "ERP"
+- id: modular
+  name: "Modular"
+- id: hrms
+  name: "HRMS"
+- id: odoo-based
+  name: "Odoo-Based"
+- id: hcm
+  name: "HCM"
+- id: unified-hcm
+  name: "Unified HCM"
+- id: financials
+  name: "Financials"
+- id: hcm-suite
+  name: "HCM Suite"
+- id: analytics
+  name: "Analytics"
+- id: hospitality
+  name: "Hospitality"
+- id: uk-payroll
+  name: "UK Payroll"
+- id: healthcare
+  name: "Healthcare"
+- id: senior-care
+  name: "Senior Care"
